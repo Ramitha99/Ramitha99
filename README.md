@@ -19,7 +19,7 @@ junior software developer from Colombo, Sri Lanka
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [ramithadm@gmail.com](mailto:ramithadm@gmail.com)
-* ⚡  coffee nerd
+* ⚡  coffee snob
 
 ### Skills
 
